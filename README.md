@@ -1,3 +1,10 @@
+# ASAASE NFT
+## Link
+- Smart Contract: https://github.com/ishola-faazele/asaase-smart-contract
+- Subgraph: https://github.com/ishola-faazele/asaase-subgraph
+- FrontEnd: https://github.com/ishola-faazele/asaase-frontend
+- Contract On Token: https://alfajores.celoscan.io/address/0xfb36c13360122ac1985d476a60d991905525d24a
+  
 ### Project Description: Solving Customary Land Tenure System Issues with Blockchain Technology
 
 **Problem Statement:**
