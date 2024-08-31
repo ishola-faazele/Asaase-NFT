@@ -3,12 +3,12 @@
 - Smart Contract: https://github.com/ishola-faazele/asaase-smart-contract
 - Subgraph: https://github.com/ishola-faazele/asaase-subgraph
 - FrontEnd: https://github.com/ishola-faazele/asaase-frontend
-- Contract On Token: https://alfajores.celoscan.io/address/0xfb36c13360122ac1985d476a60d991905525d24a
+- Contract On Celo: https://alfajores.celoscan.io/address/0xfb36c13360122ac1985d476a60d991905525d24a
   
-### Project Description: Solving Customary Land Tenure System Issues with Blockchain Technology
+### Project Description: Solving Land Acquisition and Registration Issues with Blockchain Technology
 
 **Problem Statement:**
-The customary land tenure system faces significant challenges, including:
+The land acquisition and registration process faces significant challenges, including:
 
 1. **Lack of Transparency in Land Transactions:** The absence of a clear, transparent record of land transactions leads to mistrust and potential fraud.
 2. **Multiple Allocations of the Same Land:** The same piece of land can be allocated to multiple parties, resulting in ownership disputes.
@@ -16,7 +16,7 @@ The customary land tenure system faces significant challenges, including:
 4. **Disputes Over Boundaries:** Uncertainty and conflict over land boundaries frequently result in long-standing disputes.
 
 **Solution:**
-Our project harnesses the power of blockchain technology to overcome these challenges:
+The project harnesses the power of blockchain technology to overcome these challenges:
 
 - **Blockchain for Transparency:** By recording all land transactions on a blockchain, we ensure an immutable, transparent history for each land parcel that is accessible to all stakeholders.
 - **NFTs for Unique Land Ownership:** Each land parcel is represented as a non-fungible token (NFT), ensuring uniqueness and preventing multiple allocations.
