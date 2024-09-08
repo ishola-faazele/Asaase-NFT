@@ -2,7 +2,8 @@
 ## Link
 - Smart Contract: https://github.com/ishola-faazele/asaase-smart-contract
 - Subgraph: https://github.com/ishola-faazele/asaase-subgraph
-- FrontEnd: https://github.com/ishola-faazele/asaase-frontend
+- FrontEnd Code: https://github.com/ishola-faazele/asaase-frontend
+- Deployed App: https://asaase-nft.vercel.app/
 - Contract On Celo: https://alfajores.celoscan.io/address/0xfb36c13360122ac1985d476a60d991905525d24a
   
 ### Project Description: Solving Land Acquisition and Registration Issues with Blockchain Technology
